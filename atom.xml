@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-27T08:26:40.193Z</updated>
+  <updated>2017-05-27T11:00:12.728Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,13 +20,15 @@
     <link href="http://yoursite.com/2017/05/27/%E5%8F%AA%E8%A6%81%E6%9C%89%E4%BD%A0%E7%9A%84%E5%9C%B0%E6%96%B9/%E5%8F%AA%E8%A6%81%E6%9C%89%E4%BD%A0%E7%9A%84%E5%9C%B0%E6%96%B9/"/>
     <id>http://yoursite.com/2017/05/27/只要有你的地方/只要有你的地方/</id>
     <published>2017-05-27T07:54:01.000Z</published>
-    <updated>2017-05-27T08:26:40.193Z</updated>
+    <updated>2017-05-27T11:00:12.728Z</updated>
     
     <content type="html"><![CDATA[<p>只要有你的地方</p>
 <blockquote>
 <p>只要有你的地方<br>歌手 ：林俊杰<br>所属专辑：和自己对话 From M.E. To Myself<br>作曲 : 林俊杰<br>作词 : 林夕</p>
 </blockquote>
-<p>你是我<br>肩膀坚定的力量<br>听不到你的回响<br>还真说不出晚安<br>懒洋洋<br>因为互相在依傍<br>时间怎么过去<br>有你 也不会冤枉<br>为谁辛苦为谁忙<br>只为了和你分享<br>只要你的泪光照耀着我胸膛<br>只要我的生命你肯让我安放<br>不管外面风雨有多烦乱<br>日子过的再紧张<br>我的情绪你的表情<br>Yeah Yeah 就能释放<br>只要在你目光看得见的地方<br>我会永远记住要活得更坚强<br>要是人生难免有遗憾<br>有你在身旁<br>已经是最好的补偿<br>你是我 身影流浪的方向<br>汗水找到你的脸<br>世态炎凉也无妨<br>我抬头 看你像看到月亮<br>你低头会不会 想我<br>像思念故乡<br>为谁辛苦为谁忙<br>眼中有对方不慌不忙<br>只要你的泪光照耀着我胸膛<br>只要我的生命你肯让我安放<br>不管外面风雨有多烦乱<br>日子过的再紧张<br>我的情绪你的表情<br>我们再不用隐瞒 卸下武装<br>只要在你目光看得见的地方<br>我会永远记住要活得更坚强<br>要是人生难免有遗憾<br>有你在身旁<br>试问我们还想怎样<br>艰苦又怎样 有你的地方<br>人生就不需要 什么 答案</p>
+<p>你是我<br>肩膀坚定的力量<br>听不到你的回响<br>还真说不出晚安</p>
+<a id="more"></a>
+<p>懒洋洋<br>因为互相在依傍<br>时间怎么过去<br>有你 也不会冤枉<br>为谁辛苦为谁忙<br>只为了和你分享<br>只要你的泪光照耀着我胸膛<br>只要我的生命你肯让我安放<br>不管外面风雨有多烦乱<br>日子过的再紧张<br>我的情绪你的表情<br>Yeah Yeah 就能释放<br>只要在你目光看得见的地方<br>我会永远记住要活得更坚强<br>要是人生难免有遗憾<br>有你在身旁<br>已经是最好的补偿<br>你是我 身影流浪的方向<br>汗水找到你的脸<br>世态炎凉也无妨<br>我抬头 看你像看到月亮<br>你低头会不会 想我<br>像思念故乡<br>为谁辛苦为谁忙<br>眼中有对方不慌不忙<br>只要你的泪光照耀着我胸膛<br>只要我的生命你肯让我安放<br>不管外面风雨有多烦乱<br>日子过的再紧张<br>我的情绪你的表情<br>我们再不用隐瞒 卸下武装<br>只要在你目光看得见的地方<br>我会永远记住要活得更坚强<br>要是人生难免有遗憾<br>有你在身旁<br>试问我们还想怎样<br>艰苦又怎样 有你的地方<br>人生就不需要 什么 答案</p>
 ]]></content>
     
     <summary type="html">
@@ -35,10 +37,12 @@
 &lt;blockquote&gt;
 &lt;p&gt;只要有你的地方&lt;br&gt;歌手 ：林俊杰&lt;br&gt;所属专辑：和自己对话 From M.E. To Myself&lt;br&gt;作曲 : 林俊杰&lt;br&gt;作词 : 林夕&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;你是我&lt;br&gt;肩膀坚定的
+&lt;p&gt;你是我&lt;br&gt;肩膀坚定的力量&lt;br&gt;听不到你的回响&lt;br&gt;还真说不出晚安&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="song" scheme="http://yoursite.com/tags/song/"/>
     
   </entry>
   
@@ -47,12 +51,13 @@
     <link href="http://yoursite.com/2017/05/27/The-Beacon/"/>
     <id>http://yoursite.com/2017/05/27/The-Beacon/</id>
     <published>2017-05-27T05:55:49.000Z</published>
-    <updated>2017-05-27T07:55:12.664Z</updated>
+    <updated>2017-05-27T10:41:32.214Z</updated>
     
     <content type="html"><![CDATA[<h4 id="生生"><a href="#生生" class="headerlink" title="生生"></a>生生</h4><blockquote>
 <p>生生<br>歌手 ：林俊杰<br>所属专辑 ：新地球<br>作曲 : 林俊杰<br>作词 : 林怡凤</p>
 </blockquote>
 <p>冷的天色<br>你是否多穿一件呢<br>星星坠落<br>带走我的思念流浪成河</p>
+<a id="more"></a>
 <p>烟火泡沫<br>失去或拥有都由不得我<br>抖着双手<br>拼命握紧啊<br>却徒劳无功啊</p>
 <p>生生灯火明暗无辄<br>看着迂回的伤痕<br>却不能为你做什么</p>
 <p>我恨我<br>躲在永夜背后找微光的出口<br>生生你我离别无辄<br>每一道岁月的痛</p>
@@ -72,10 +77,13 @@
     
       &lt;h4 id=&quot;生生&quot;&gt;&lt;a href=&quot;#生生&quot; class=&quot;headerlink&quot; title=&quot;生生&quot;&gt;&lt;/a&gt;生生&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;生生&lt;br&gt;歌手 ：林俊杰&lt;br&gt;所属专辑 ：新地球&lt;br&gt;作曲 : 林俊杰&lt;br&gt;作词 : 林怡凤&lt;/p&gt;
-&lt;/
+&lt;/blockquote&gt;
+&lt;p&gt;冷的天色&lt;br&gt;你是否多穿一件呢&lt;br&gt;星星坠落&lt;br&gt;带走我的思念流浪成河&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="song" scheme="http://yoursite.com/tags/song/"/>
     
   </entry>
   
@@ -84,12 +92,14 @@
     <link href="http://yoursite.com/2017/05/26/BANDLE-CITY/"/>
     <id>http://yoursite.com/2017/05/26/BANDLE-CITY/</id>
     <published>2017-05-26T14:15:20.000Z</published>
-    <updated>2017-05-26T14:15:20.515Z</updated>
+    <updated>2017-05-27T10:58:42.965Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -98,12 +108,14 @@
     <link href="http://yoursite.com/2017/05/26/VOID/"/>
     <id>http://yoursite.com/2017/05/26/VOID/</id>
     <published>2017-05-26T14:14:43.000Z</published>
-    <updated>2017-05-26T14:14:43.907Z</updated>
+    <updated>2017-05-27T10:58:46.366Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -112,12 +124,14 @@
     <link href="http://yoursite.com/2017/05/26/NOXUS/"/>
     <id>http://yoursite.com/2017/05/26/NOXUS/</id>
     <published>2017-05-26T14:14:28.000Z</published>
-    <updated>2017-05-26T14:14:28.785Z</updated>
+    <updated>2017-05-27T10:58:46.354Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -126,12 +140,14 @@
     <link href="http://yoursite.com/2017/05/26/FRELJORD/"/>
     <id>http://yoursite.com/2017/05/26/FRELJORD/</id>
     <published>2017-05-26T14:14:06.000Z</published>
-    <updated>2017-05-26T14:14:06.220Z</updated>
+    <updated>2017-05-27T10:59:25.892Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -140,12 +156,14 @@
     <link href="http://yoursite.com/2017/05/26/IONIA/"/>
     <id>http://yoursite.com/2017/05/26/IONIA/</id>
     <published>2017-05-26T14:13:33.000Z</published>
-    <updated>2017-05-26T14:13:33.475Z</updated>
+    <updated>2017-05-27T10:59:23.442Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -154,12 +172,14 @@
     <link href="http://yoursite.com/2017/05/26/BILGEWATER/"/>
     <id>http://yoursite.com/2017/05/26/BILGEWATER/</id>
     <published>2017-05-26T14:13:08.000Z</published>
-    <updated>2017-05-26T14:13:08.191Z</updated>
+    <updated>2017-05-27T10:59:25.861Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -168,12 +188,14 @@
     <link href="http://yoursite.com/2017/05/26/SHURIMA/"/>
     <id>http://yoursite.com/2017/05/26/SHURIMA/</id>
     <published>2017-05-26T14:12:41.000Z</published>
-    <updated>2017-05-26T14:12:41.683Z</updated>
+    <updated>2017-05-27T10:58:42.965Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -182,12 +204,14 @@
     <link href="http://yoursite.com/2017/05/26/MOUNT-TARGON/"/>
     <id>http://yoursite.com/2017/05/26/MOUNT-TARGON/</id>
     <published>2017-05-26T14:12:17.000Z</published>
-    <updated>2017-05-26T14:12:17.036Z</updated>
+    <updated>2017-05-27T10:59:23.440Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -196,12 +220,14 @@
     <link href="http://yoursite.com/2017/05/26/SHADOW-ISLES/"/>
     <id>http://yoursite.com/2017/05/26/SHADOW-ISLES/</id>
     <published>2017-05-26T14:11:37.000Z</published>
-    <updated>2017-05-26T14:11:37.539Z</updated>
+    <updated>2017-05-27T10:58:42.965Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -210,12 +236,14 @@
     <link href="http://yoursite.com/2017/05/26/PILTOVER/"/>
     <id>http://yoursite.com/2017/05/26/PILTOVER/</id>
     <published>2017-05-26T14:11:06.000Z</published>
-    <updated>2017-05-26T14:11:06.712Z</updated>
+    <updated>2017-05-27T10:58:46.344Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -224,12 +252,14 @@
     <link href="http://yoursite.com/2017/05/26/ZAUN/"/>
     <id>http://yoursite.com/2017/05/26/ZAUN/</id>
     <published>2017-05-26T14:10:25.000Z</published>
-    <updated>2017-05-26T14:10:25.905Z</updated>
+    <updated>2017-05-27T10:58:42.965Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
@@ -238,12 +268,14 @@
     <link href="http://yoursite.com/2017/05/26/DEMACIA/"/>
     <id>http://yoursite.com/2017/05/26/DEMACIA/</id>
     <published>2017-05-26T14:09:26.000Z</published>
-    <updated>2017-05-26T14:09:26.104Z</updated>
+    <updated>2017-05-27T10:59:25.860Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="lol" scheme="http://yoursite.com/tags/lol/"/>
     
   </entry>
   
